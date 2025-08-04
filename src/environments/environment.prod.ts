@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'http://16.170.143.83:8080/api'
+  url: 'https://ec2-stage.barschtalman.com/api'
 };
